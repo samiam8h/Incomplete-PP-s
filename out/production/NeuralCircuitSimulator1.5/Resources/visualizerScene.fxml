@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="800.0" stylesheets="@visualizerSceneStylesheet.css" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.visualizerSceneController">
+    <children>
+        <SubScene fx:id="subScene" depthBuffer="true" height="468.0" layoutX="139.0" layoutY="32.0" width="661.0">
+            <root>
+                <Region />
+            </root>
+        </SubScene>
+      <ToolBar layoutX="254.0" layoutY="441.0" prefHeight="40.0" prefWidth="532.0" style="-fx-background-color: grey;">
+        <items>
+          <Button fx:id="stepButton" mnemonicParsing="false" onMouseClicked="#stepButtonClicked" prefHeight="33.0" prefWidth="50.0" text="Step" textAlignment="JUSTIFY" textOverrun="CENTER_WORD_ELLIPSIS">
+               <padding>
+                  <Insets bottom="8.0" top="8.0" />
+               </padding>
+               <font>
+                  <Font name="Arial Rounded MT Bold" size="12.0" />
+               </font>
+            </Button>
+        </items>
+      </ToolBar>
+      <HBox prefHeight="40.0" prefWidth="800.0">
+         <children>
+            <MenuBar prefHeight="31.0" prefWidth="140.0">
+              <menus>
+                <Menu mnemonicParsing="false" text="File">
+                  <items>
+                    <MenuItem mnemonicParsing="false" text="Close" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Edit">
+                  <items>
+                    <MenuItem mnemonicParsing="false" text="Delete" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Help">
+                  <items>
+                    <MenuItem mnemonicParsing="false" text="About" />
+                  </items>
+                </Menu>
+              </menus>
+            </MenuBar>
+         </children>
+      </HBox>
+      <ListView fx:id="listView" layoutY="32.0" onMouseClicked="#listViewClicked" prefHeight="468.0" prefWidth="200.0">
+         <effect>
+            <Blend />
+         </effect>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets></ListView>
+    </children>
+</AnchorPane>

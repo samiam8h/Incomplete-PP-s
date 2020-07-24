@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53345464-37fd-42b2-9ed0-727632149f6b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1eq7zKDKmXqI2QLOkG3fruVBFmY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Controllers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jefferson\Desktop\Java\Java\NeuralCircuitSim\NeuralCircuitSimulator1.5\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NeuralCircuitSim.Main" />
+      <module name="NeuralCircuitSimulator1.5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NeuralCircuitSim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53345464-37fd-42b2-9ed0-727632149f6b" name="Default Changelist" comment="" />
+      <created>1595037529475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595037529475</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1367" height="185" key="GridCell.Tab.0.bottom" timestamp="1595565896436">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595565896436" />
+    <state width="1367" height="185" key="GridCell.Tab.0.center" timestamp="1595565896435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="185" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595565896435" />
+    <state width="1367" height="185" key="GridCell.Tab.0.left" timestamp="1595565896435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="185" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595565896435" />
+    <state width="1367" height="185" key="GridCell.Tab.0.right" timestamp="1595565896435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595565896435" />
+    <state width="1367" height="232" key="GridCell.Tab.1.bottom" timestamp="1595475407492">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="232" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595475407492" />
+    <state width="1367" height="232" key="GridCell.Tab.1.center" timestamp="1595475407492">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="232" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1595475407492" />
+    <state width="1367" height="232" key="GridCell.Tab.1.left" timestamp="1595475407491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="232" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1595475407491" />
+    <state width="1367" height="232" key="GridCell.Tab.1.right" timestamp="1595475407492">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="232" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1595475407492" />
+    <state x="65" y="0" key="new project wizard" timestamp="1595559262023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595559262023" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1595393335190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1595393335190" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1595567145031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1595567145031" />
+  </component>
+</project>
